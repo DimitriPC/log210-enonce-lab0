@@ -6,7 +6,9 @@ skinparam backgroundcolor transparent
 skinparam defaultfontname Verdana
 actor Joueur as J
 rectangle "Système" {
+  (Redémarrer) as R #powderblue
   (Jouer aux dés) as JP #powderblue
   J -- JP
+  J -- R
 }
 @enduml
