@@ -170,7 +170,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/master/docs/modeles/dcu.puml)
+![Diagramme de cas d'utilisation]("plantuml.server": "https://www.plantuml.com/plantuml",     "plantuml.render": "PlantUMLServer",/png/NSmzQWCn40NWNgTuE4MImdTmaKgLMKFwiJIx4QkVPJJ2CI7tYS-n5mjQ22pfXddVUwUg9DfIn5kWIIWbXcSugl3FJKCCbJIKR2AF2YsGC7qeV11ssx_E8Iyab53r7XbL9RW-k4iMSZDDVDb0B-woAxbvajAoToKMWGhbkf1mtYlF8xMeOycQAJ7UMJnbCkIq26nft0HKOKsVfpn5nk5ohxh-93xWom0l0_lraKY4vRNR0KzBkNcMQspSGPyHKFk4NnzrC_Ry3raSZx3dlsimt-R4sRSKVm40 "Diagramme de cas d'utilisation")
 
 ### Modèle du domaine
 
