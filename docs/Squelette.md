@@ -170,7 +170,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](docs\modeles\dcu\dcu.svg)
+![Diagramme de cas d'utilisation](./modeles/dcu/dcu.svg)
 
 ### Modèle du domaine
 
