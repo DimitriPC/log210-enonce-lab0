@@ -170,7 +170,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=docs\modeles\dcu\Diagrammedecasd'utilisation.svg)
+![Diagramme de cas d'utilisation](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=docs\modeles\dcu\Diagramme%20de%20cas%20d'utilisation.puml)
 
 ### Modèle du domaine
 
@@ -217,8 +217,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de classes logicielles
 
-![App]("plantuml.server": "https://www.plantuml.com/plantuml",     "plantuml.render": "PlantUMLServer",/svg/pLJDRjf04Bxp5AESY828LEd5GIYe95LHInFo0D7WdQAjx5rdPfU24EzU-MzZ4qJLNih5ydupyyt_t8b3TZvDEd628Z0bs7K000OlQqp8SmJ6fqlY0kmj6KM8kvSHhArM9NYWkE_WKXnZxA3aLFG3VUA0DewC4hXdjbovwUrgvJt4Lb63fJJ-OjQOQFM8Z2avujAufffKnYtAakTcE0maC-l9SyZCs3G2SQpDgaQMNz74nD9Aju5_nfMXjhJtZWP5K1lDSvjs6yBBbbOlEUAf1e-vAKNjagzolGFCsTdpztcExQ3X_HOE70QWxUmMzg5US-iUh3VgBufz4umd2HEgxVr6YvD_QnVvAKr9GiD-5lsJ2BvXDYhJwbTD7LSgwZg2ATMF3-7HKvGYC_6C_8ccv1xuXDmHfzhyYOMfwUr0sDYTPdj3RfLkemWBwnszZIqNpmXAk09ZQnpRV05dvADGkhgq9uH7w5h5OdgDO46ldiIDYlsJgOwTjWPvsmSqzUV94s-VY-Yl7f65r9FqOK6nPHMwXMOx7lU1yu5Ra6JM28qAy-EAXZOkWZbjt8CtXTVMi9VzEkSG1o-KJ_adg-ZZSDWj7b4PpVyCktqo6bDzrkrkBzPPXwgDTk4mXvkOPVMveqt693B9iWYg_wj9bYKwnfohd9rKAvNGBsHgtVX1iRFIe0-dSZ0OmyNrHNKLt-DJwhnTbA1S7uGxCigdoMy0 "App")
-
+![App](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=docs/modeles/App/App.svg)
 
 
 [README.md](../README.md)
