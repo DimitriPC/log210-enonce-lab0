@@ -217,9 +217,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de classes logicielles
 
-![App](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/master/docs/modeles/App.puml)
-
-![alt text](image.png)
+![Diagramme de classes logicielles](./modeles/App/App.svg)
 
 [README.md](../README.md)
 
