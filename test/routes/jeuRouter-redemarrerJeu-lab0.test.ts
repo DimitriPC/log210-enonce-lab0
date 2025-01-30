@@ -27,4 +27,11 @@ describe('GET /api/v1/jeu/redemarrerJeu', () => {
       const joueursArray = JSON.parse(joueursJSON);
       expect(joueursArray.length).toBe(0);
     });
+
+    it(`devrait répondre avec 404 pour jouer après redemarrerJeu()`, async () => {
+      await request.get('/api/v1/jeu/redemarrerJeu');
+      const response = await request.get('/api/v1/jeu/jouer/Joueur1');
+      expect(response.status).toBe(404);
+      expect(response.type).toBe("application/json");
+    });
 });
